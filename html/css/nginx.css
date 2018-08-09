@@ -1,0 +1,55 @@
+body{
+    font-family:Lato, Helvetica, Arial, sans-serif;
+    background: #f2f2f3;
+    margin:0;
+}
+.rbs-error-container{
+    width:500px;
+    margin:0 auto;
+    margin-top:80px;
+    text-align: center;
+}
+.rbs-error-code-container{
+    margin:25px 0 30px 0;
+}
+.rbs-server-error-line{
+    display: inline-block;
+    width:111px;
+    border-top:1px solid #cfd2d5;
+    vertical-align: middle;
+}
+.rbs-server-error-text{
+    display: inline-block;
+    vertical-align: middle;
+    padding:0 10px;
+    font-family:Lato, Helvetica, Arial, sans-serif;
+    font-size:18px;
+    color:#c83200;
+    font-weight: 700;
+}
+.rbs-error-page-footer{
+    position: absolute;
+    bottom:0;
+    text-align: center;
+    padding: 50px;
+    left:0;
+    right:0;
+    background: #fff;
+}
+.rbs-error-page{
+    margin-bottom:20px;
+    font-size:18px;
+    color:#4b4e52;
+    font-family:Lato, Helvetica, Arial, sans-serif;
+}
+.rbs-error-contact-us{
+    margin-bottom:60px;
+    font-size:14px;
+    color:#4b4e52;
+    font-family:Lato, Helvetica, Arial, sans-serif;
+}
+.rbs-error-go-to{
+    font-size:16px;
+    font-family:Lato, Helvetica, Arial, sans-serif;
+    color:#4b4e52;
+}
